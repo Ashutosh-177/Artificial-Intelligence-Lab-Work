@@ -1,7 +1,7 @@
 <h1 align="center">Artificial Intelligence Lab Work</h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Reinforcement+Learning;20+Python+Lab+Programs+Converted+and+Organized;Pre-Lab+%2B+Core+Lab+%2B+Post-Lab+Workflow" alt="Typing Header" />
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Reinforcement+Learning;20+AI+Lab+Programs+in+Python;Pre-Lab+%2B+Core+Lab+%2B+Post-Lab+Workflow" alt="Typing Header" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About This Repository
 
-This repository contains a complete set of Artificial Intelligence lab programs in Python, prepared for practical learning, lab records, and revision.
+This repository contains a complete set of Artificial Intelligence lab programs in Python for practical learning, lab records, and revision.
 
 Topics included:
 
@@ -38,34 +38,28 @@ Topics included:
 
 ## Program Index
 
-### Core
+### Core Experiments
 
-- `Exp_1_Introduction_to_Machine_Learning-1.py`
-- `Exp_2_Linear_Regression_lab.py`
-- `Exp_3_KNN_Lab.py`
-- `Exp_4_CNN.py`
-- `Exp_5_LSTM.py`
-- `Exp_6_NLP.py`
-- `Exp-7 N-gram Model.py`
+- Experiment 1: Introduction to Machine Learning
+- Experiment 2: Linear Regression
+- Experiment 3: K-Nearest Neighbors (KNN)
+- Experiment 4: Convolutional Neural Network (CNN)
+- Experiment 5: Long Short-Term Memory (LSTM)
+- Experiment 6: Natural Language Processing (NLP)
+- Experiment 7: N-gram Language Model
 
-### Extended
+### Advanced Experiments
 
-- `Ex_8_Word Embedding.ipynb - Colab.py`
-- `EX_9_AI_TextRank Keyword.ipynb - Colab.py`
-- `AI_EX_10_Textrank_Doc.ipynb - Colab.py`
-- `AI_Ex_11_Content based recommendation.ipynb - Colab.py`
-- `AI_EX_12_Collabrative_filtering.ipynb - Colab.py`
-- `AI_Ex_14_Reinforcement Learning.ipynb - Colab.py`
+- Experiment 8: Word Embeddings
+- Experiment 9: TextRank Keyword Extraction
+- Experiment 10: TextRank Document Summarization
+- Experiment 11: Content-Based Recommendation
+- Experiment 12: Collaborative Filtering
+- Experiment 14: Reinforcement Learning
 
-### Post / Pre Lab
+### Additional Practice
 
-- `Exp_5_LSTM_Post_Lab.py`
-- `Exp_6_NLP_Post_Lab.py`
-- `Post_Ex_7_N-gram model.ipynb - Colab.py`
-- `Post_EX_9_AI_TextRank Keyword.ipynb - Colab.py`
-- `Post_AI_EX_10_Textrank_Doc.ipynb - Colab.py`
-- `Post_Lab_Ex_11.ipynb - Colab.py`
-- `Pre lab_Ex_8_Word Embedding.ipynb - Colab.py`
+- Pre-Lab and Post-Lab implementations for selected experiments
 
 ## Run Locally
 
