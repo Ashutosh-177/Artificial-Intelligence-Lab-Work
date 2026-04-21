@@ -1,33 +1,44 @@
-# Artificial Intelligence Lab Work
+<h1 align="center">Artificial Intelligence Lab Work</h1>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Artificial%20Intelligence%20Lab%20Work&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" alt="Project Banner" />
+	<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Reinforcement+Learning;20+Python+Lab+Programs+Converted+and+Organized;Pre-Lab+%2B+Core+Lab+%2B+Post-Lab+Workflow" alt="Typing Header" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Recommenders;Python+Lab+Experiments+with+Practical+Implementations;Pre-Lab%2C+Post-Lab%2C+and+Notebook-to-Python+Workflows" alt="Typing Animation" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00b4d8,100:0077b6" alt="separator" />
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
-	<img src="https://img.shields.io/badge/Lab-20%20Python%20Files-orange?style=for-the-badge" alt="Lab Files" />
+	<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+	<img src="https://img.shields.io/badge/Programs-20-0A9396?style=flat-square" alt="programs" />
+	<img src="https://img.shields.io/badge/Focus-AI%20Lab-005F73?style=flat-square" alt="focus" />
+	<img src="https://img.shields.io/badge/Status-Ready-2A9D8F?style=flat-square" alt="status" />
 </p>
 
-## Overview
+## About This Repository
 
-This repository contains AI lab experiments converted into executable Python scripts.
-It includes core topics from classical machine learning to modern NLP and deep learning.
+This repository contains a complete set of Artificial Intelligence lab programs in Python, prepared for practical learning, lab records, and revision.
 
-## What Is Inside
+Topics included:
 
-- Structured lab implementations in Python.
-- Coverage of regression, KNN, CNN, LSTM, NLP, TextRank, N-gram, recommendation systems, and reinforcement learning.
-- Pre-lab and post-lab exercises for selected experiments.
+- Machine Learning fundamentals
+- Regression and KNN
+- CNN and LSTM
+- NLP, Word Embeddings, N-gram, TextRank
+- Recommendation Systems
+- Reinforcement Learning
 
-## Experiment Files
+## Lab Structure
 
-### Core Labs
+| Category | Files |
+|---|---|
+| Core Labs | `Exp_1` to `Exp_7` |
+| Extended Labs | `Ex_8`, `EX_9`, `AI_EX_10`, `AI_Ex_11`, `AI_EX_12`, `AI_Ex_14` |
+| Post/Pre Lab | `Post_*`, `Pre_*`, and `*_Post_Lab` |
+
+## Program Index
+
+### Core
 
 - `Exp_1_Introduction_to_Machine_Learning-1.py`
 - `Exp_2_Linear_Regression_lab.py`
@@ -37,7 +48,7 @@ It includes core topics from classical machine learning to modern NLP and deep l
 - `Exp_6_NLP.py`
 - `Exp-7 N-gram Model.py`
 
-### Extended / Notebook-Derived Labs
+### Extended
 
 - `Ex_8_Word Embedding.ipynb - Colab.py`
 - `EX_9_AI_TextRank Keyword.ipynb - Colab.py`
@@ -46,7 +57,7 @@ It includes core topics from classical machine learning to modern NLP and deep l
 - `AI_EX_12_Collabrative_filtering.ipynb - Colab.py`
 - `AI_Ex_14_Reinforcement Learning.ipynb - Colab.py`
 
-### Post-Lab / Additional Practice
+### Post / Pre Lab
 
 - `Exp_5_LSTM_Post_Lab.py`
 - `Exp_6_NLP_Post_Lab.py`
@@ -56,25 +67,18 @@ It includes core topics from classical machine learning to modern NLP and deep l
 - `Post_Lab_Ex_11.ipynb - Colab.py`
 - `Pre lab_Ex_8_Word Embedding.ipynb - Colab.py`
 
-## Quick Start
+## Run Locally
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
-pip install -r requirements.txt
 python "Exp_1_Introduction_to_Machine_Learning-1.py"
 ```
-
-If `requirements.txt` is not available yet, install dependencies as needed per experiment.
-
-## Repository Goal
-
-Build a complete, practical AI lab archive that is easy to run, revise, and present.
 
 ## Author
 
 Ashutosh
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" alt="Footer Wave" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:005F73,50:0A9396,100:94D2BD" alt="footer" />
 </p>
